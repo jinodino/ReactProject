@@ -27,3 +27,9 @@ React JS Fundamentals Course (2020 Update!)
   # react masic
     - react는 우리가 전달한 props를 가져가는 일을 한다    
     - props는 argument로 간다!
+
+  # map - JavaScript
+    - map이 하는 것은 렌더링이다 
+    - list 내의 child는 *unique한 key prop*를 가져야한다.
+    - 원하는 prop이 갖고 있는 props인지 체크.
+      -> propTypes로 체크: 체크하는 곳 App.js에 있음
